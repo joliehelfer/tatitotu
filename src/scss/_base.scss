@@ -3,6 +3,11 @@
 // ==================================== */
 
 :root {
+  --beige: #e5ded5;
+  --black: #000000;
+  --blue: #5076b7;
+  --orange: #f18e20;
+  --violet: #764695;
 }
 
 /* ====================================
@@ -17,6 +22,8 @@
 
 html {
   font-size: 16px;
+  font-family: "Kodchasan", sans-serif;
+  background-color: #e5ded5;
 }
 
 body {
